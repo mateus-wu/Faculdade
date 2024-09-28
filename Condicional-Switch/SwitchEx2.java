@@ -1,4 +1,5 @@
 import java.util.Scanner;
+//Estrutura dos meses do ano
 public class SwitchEx2{
     public static void main(String [] args){
     Scanner sc = new Scanner(System.in);
